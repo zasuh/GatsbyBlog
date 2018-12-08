@@ -39,7 +39,7 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/zasuh/GatsbyBlog",
   "keywords": [
     "gatsby"
   ],

@@ -79,6 +79,43 @@ Do one project everytime you are bored or have an hour to kill.
 But Bootstrap is widely used to create websites faster. Redesign your personal site with Bootstrap. If you get stuck use the
 official documentation or Google around. Teach yourself to know what you don't know.
 
+* At this point you can start learning JS, but if you still need practice you can clone the design of one of your favourite sites,
+explore the different CSS frameworks mentioned above, learn more about SASS or LESS and maybe even Pug or HAML. The choice is
+all yours, what matters is that you get to build something. You will not learn all of HTML and CSS by following guides, you learn
+just enough so that you can use it somewhere. Don't go and learn the entire Bootstrap framework. Just use the assets and code
+that you need for your project.
+
+* You might also be thinking: "Where can I host my sites?". I recommend one of the three options: [surge.sh](https://surge.sh/),
+[GitHub Pages](https://pages.github.com/) or for more ambitions stuff [Heroku](https://www.heroku.com/). All of these are free
+to use to a certain limit of data or size.
+
+---
+
+### JavaScript ###
+
+This part will be massive just a notice. The JS ecosystem is insanely large, but don't let that turn you away from learning it.
+It used to piss me off just as much as you, but overtime you get to understand it and can write functioning applications and sites.
+
+* First off there isn't one amazing resource to learn JS. There are tons out there, some better than others. I will try and list
+the ones that have actually helped me learn how to add JS to websites and how to use it the "modern way".
+
+* I would recommend starting with the [Khan Academy videos](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+on DOM (Document Object Model) manipulation. You can also take the complete HTML/CSS/JS course there if you like. You might learn
+something you haven't in the previous guides.
+
+* Next I recommend you maybe try and add some of what you have learned to your personal website. Maybe just a button that says "Hi!"
+when you click it. After that I want to point you to [javascript.info](https://javascript.info/) and
+[MDN's Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Follow the javascript.info guide, learn as
+much as you can from it, what you still don't understand you can lookup using MDN.
+
+* At this point I have to recommend that just doing programming exercises and doing guides won't be enough to learn JS. I strongly
+recommend you start reading blogs, listen to podcasts, follow subreddits and watch videos on anything JS related. You need to learn
+the terminology, design and architecture of writing JS and the guide alone won't teach you this. Consume a lot of programming media
+related to JS.
+
+* After this you can head on to [Wes Bos's JS30](https://javascript30.com/). You will need to understand ES6 by this point since
+Wes is a heavy user of it. This is by far one of the best resources to really learn JS. You do 30 small projects in 30 days, or even watch them at your own
+pace.
 
 [Follow me on Twitter](https://twitter.com/zasuh_).
 [Github profile](https://github.com/zasuh).

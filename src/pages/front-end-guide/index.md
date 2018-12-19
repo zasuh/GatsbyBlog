@@ -120,6 +120,19 @@ pace.
 * Next I want to recommend some sites similar to 100DaysOfCSS, where you can have on-going practice for JS. If you ever need more
 practice hit up [HackerRank](https://www.hackerrank.com/), [CodinGame](https://www.codingame.com/) or [CodeWars](https://www.codewars.com/users/sign_in).
 
+* Here you are ready to branch out and learn either React, Angular or Vue. They combine everything you have learned up untill this point. Pick one,
+make something small with it, find out which one is best for you and which one makes you more productive. If you want to dive deep into more front-end
+and back-end stuff I recommend [Programming For The Web With JS](https://www.edx.org/course/programming-web-javascript-pennx-sd4x).
+If you want more Computer Science specific stuff do [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) or
+tackle some of the stuff in [Teaching yourself CS](https://teachyourselfcs.com).
+
+---
+
+That's kind of it! Those are my recommendations for what to learn. There are loads of things I probably forgot, but you are going to learn most
+of them anyway when you go through all the resources :D
+
+Hope you learn something and I will see you in Part 2!
+
 [Follow me on Twitter](https://twitter.com/zasuh_).
 [Github profile](https://github.com/zasuh).
 [LinkedIn just because](https://www.linkedin.com/in/zasuhadolnik/).

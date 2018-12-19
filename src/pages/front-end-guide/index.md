@@ -117,6 +117,9 @@ related to JS.
 Wes is a heavy user of it. This is by far one of the best resources to really learn JS. You do 30 small projects in 30 days, or even watch them at your own
 pace.
 
+* Next I want to recommend some sites similar to 100DaysOfCSS, where you can have on-going practice for JS. If you ever need more
+practice hit up [HackerRank](https://www.hackerrank.com/), [CodinGame](https://www.codingame.com/) or [CodeWars](https://www.codewars.com/users/sign_in).
+
 [Follow me on Twitter](https://twitter.com/zasuh_).
 [Github profile](https://github.com/zasuh).
 [LinkedIn just because](https://www.linkedin.com/in/zasuhadolnik/).

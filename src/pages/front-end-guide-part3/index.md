@@ -3,7 +3,7 @@ title: Beginner to Beginner - Part 3 - Advice for job searching
 date: "2018-12-26T22:40:32.169Z"
 ---
 
-Welcome to part 3 of my blog series!
+Welcome to part 3 of my blog series! :D
 
 Check out part 1 [HERE](http://zane-blog.surge.sh/front-end-guide/) and part 2 [HERE](http://zane-blog.surge.sh/front-end-guide-part2/)
 

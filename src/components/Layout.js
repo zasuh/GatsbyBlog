@@ -1,7 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import Toggle from './ThemeToggler'
 
 import { rhythm, scale } from '../utils/typography'
+import sun from '../assets/sun.png'
+import moon from '../assets/moon.png'
 
 class Layout extends React.Component {
   render() {
@@ -16,7 +19,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
-            textAlign: "center",
+            textAlign: 'center',
           }}
         >
           <Link
@@ -50,6 +53,29 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
+          <Toggle
+            icons={{
+              checked: (
+                <img
+                  src={moon}
+                  width="16"
+                  height="16"
+                  role="presentation"
+                  style={{ pointerEvents: 'none' }}
+                />
+              ),
+              unchecked: (
+                <img
+                  src={sun}
+                  width="16"
+                  height="16"
+                  role="presentation"
+                  style={{ pointerEvents: 'none' }}
+                />
+              ),
+            }}
+          >
+          </Toggle>
         </h3>
       )
     }

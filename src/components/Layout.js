@@ -7,6 +7,18 @@ import sun from '../assets/sun.png'
 import moon from '../assets/moon.png'
 
 class Layout extends React.Component {
+  constructor(props){
+    super(props)
+    this.state = {
+      theme : null
+    }
+  }
+  componentDidMount() {
+    this.setState({ theme: window.__theme });
+    window.__onThemeChange = () => {
+      this.setState({ theme: window.__theme });
+    };
+  }
   render() {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
@@ -74,6 +86,12 @@ class Layout extends React.Component {
                 />
               ),
             }}
+            checked={this.state.theme === 'dark'}
+            onChange={e =>
+              window.__setPreferredTheme(
+                e.target.checked ? 'dark' : 'light'
+              )
+            }
           >
           </Toggle>
         </h3>

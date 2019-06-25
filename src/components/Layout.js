@@ -133,6 +133,7 @@ class Layout extends React.Component {
           marginRight: 'auto',
           maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          color: 'var(--textNormal)',
         }}
       >
         {header}

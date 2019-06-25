@@ -1,7 +1,8 @@
+import './fonts/fonts-shared.css';
+import './global.css';
+
 import Typography from 'typography'
 import twinPeaksTheme from 'typography-theme-twin-peaks'
-
-import './global.css'
 
 twinPeaksTheme.overrideThemeStyles = () => ({
   a: {

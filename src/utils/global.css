@@ -2,7 +2,6 @@
 
 body {
   --bg: white;
-  --textNormal: #222;
   --textTitle: #222;
   --textLink: blue;
   --hr: hsla(0, 0%, 0%, 0.2);
@@ -32,6 +31,9 @@ body.dark {
   --hr: hsla(0, 0%, 100%, 0.2);
   --inlineCode-bg: hsl(222, 14%, 25%);
   --inlineCode-text: #e6e6e6;
+
+  /* Own styles */
+  text-shadow : none;
 }
 
 /**

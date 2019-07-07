@@ -32,6 +32,7 @@ class Layout extends React.Component {
             marginBottom: rhythm(1.5),
             marginTop: 0,
             textAlign: 'center',
+            color: 'var(--textNormal)'
           }}
         >
           <Link
@@ -82,6 +83,7 @@ class Layout extends React.Component {
             fontFamily: 'Montserrat, sans-serif',
             marginTop: 0,
             marginBottom: rhythm(-1),
+            color: 'var(--textTitle)'
           }}
         >
           <Link

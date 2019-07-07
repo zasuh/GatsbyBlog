@@ -7,6 +7,10 @@ import twinPeaksTheme from 'typography-theme-twin-peaks'
 twinPeaksTheme.overrideThemeStyles = () => ({
   a: {
     color: 'var(--textLink)',
+    textShadow: 'none'
+  },
+  'a:hover': {
+    color: 'var(--textLink)',
   },
   hr: {
     background: 'var(--hr)',

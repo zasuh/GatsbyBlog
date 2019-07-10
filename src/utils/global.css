@@ -14,7 +14,7 @@ body.light {
   --header: var(--pink);
   --textNormal: #222;
   --textTitle: #222;
-  --textLink: #5a6188;
+  --textLink: #b64c05;
   --hr: hsla(0, 0%, 0%, 0.2);
   --inlineCode-bg: rgba(255, 229, 100, 0.2);
   --inlineCode-text: #1a1a1a;
@@ -26,11 +26,11 @@ body.dark {
   --bg: #282c35;
   --header: #ffffff;
   --textNormal: rgba(255, 255, 255, 0.88);
-  --textTitle: #ffffff;
-  --textLink: var(--pink);
+  --textTitle: rgb(245, 217, 108);
+  --textLink: rgb(245, 217, 108);
   --hr: hsla(0, 0%, 100%, 0.2);
   --inlineCode-bg: hsl(222, 14%, 25%);
-  --inlineCode-text: #e6e6e6;
+  --inlineCode-text: rgb(245, 217, 108);
 
   /* Own styles */
   text-shadow : none;

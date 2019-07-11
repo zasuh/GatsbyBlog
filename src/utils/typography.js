@@ -17,6 +17,12 @@ twinPeaksTheme.overrideThemeStyles = () => ({
   },
   'a.gatsby-resp-image-link': {
     boxShadow: 'none',
+  },
+  h2: {
+    color: 'white'
+  },
+  h3:{
+    color: 'white'
   }
 })
 

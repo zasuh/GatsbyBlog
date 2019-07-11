@@ -22,7 +22,6 @@ So once you finished building your app and have a `public` and/or `build`/`disc`
 
 Login to your netlify account and drag and drop that `public` folder into the window. Then go to `site settings` of that site and at the left menu choose `Build and deploy`. There you can configure your `Build settings` to point to your remote repo, choose your build command so Netlify can build the app for you and choose your git branch. Now for every change you do to your repo or push that you commit Netlify will automatically build and update your site.
 
-
 Thank you for reading!
 
 

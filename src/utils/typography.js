@@ -19,10 +19,10 @@ twinPeaksTheme.overrideThemeStyles = () => ({
     boxShadow: 'none',
   },
   h2: {
-    color: 'white'
+    color: 'inherit'
   },
   h3:{
-    color: 'white'
+    color: 'inherit'
   }
 })
 

@@ -1,5 +1,5 @@
 ---
-title: What are constructor functions? [POST UNFINISHED]
+title: What are constructor functions?
 date: "2019-07-11T06:41:32.169Z"
 ---
 
@@ -29,6 +29,40 @@ function Animal(species) {
 
 let animal = new Animal('Dog');
 ```
+
+In short they are used to *create AND initialize an object within a class* while most other functions are created and then need to be called with certain parameters.
+
+---
+
+## CONSTRUCTORS IN REACT ##
+
+Because I haven't personally so far used constructors in any other framework other than React I would like to also explain my own reasoning for how React uses them. React used to have a function called `getInitialState` which I happen to still use daily on my job. This function was replaced by just a regular `constructor` for setting a component's state.
+
+```javascript
+//Old way
+getInitialState(){
+  return {
+    name    : this.props.name,    //this.state.name
+    surname : this.props.surname, //this.state.surname
+    age     : this.props.age      //this.state.age
+  }
+}
+```
+
+```javascript
+//Current way
+constructor(props){
+  super(props)
+  this.state = {
+    name    : this.props.name,    //this.state.name
+    surname : this.props.surname, //this.state.surname
+    age     : this.props.age      //this.state.age
+  }
+  //Any other variable you want to define for when state loads
+}
+```
+
+You will most likely find the second way more often now, unless you are reading some legacy React code, but essentially both ways are the same with slight differences, like you having to use `super(props)` to refer to that component's parent class constructor. Or in more simple terms you are refering to the parent of that component, which also has a constructor.
 
 Thank you for reading!
 

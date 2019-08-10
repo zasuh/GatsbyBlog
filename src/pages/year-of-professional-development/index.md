@@ -1,6 +1,6 @@
 ---
-title: What I learned after a year of professional development [UNFINISHED]
-date: "2019-08-09T06:20:32.169Z"
+title: What I learned after a year of professional development
+date: "2019-08-10T06:20:32.169Z"
 ---
 
 If you would have told me last year at this exact time that I'm going to have a full time web developer job in september I would have never believed you. Truth be don't I still don't believe I'm actually geting paid to write code. Over the last year I've learned a thing or two about professional software engineering and I would like to write down some points in hopes of revisiting this post a few years later with maybe a new perspective.
@@ -31,7 +31,19 @@ Also a quick sidenote: a regular `for` loop is usually enough to solve some prob
 
 We've all experienced it. I think junior developers are just more prone to it because we can't believe that we are getting paid for feeling like we don't belong.
 
-Every mistake I made and every setback I've experienced has increased my impostor syndrome by like a factor of 10.
+Every mistake I made and every setback I've experienced has increased my impostor syndrome by like a factor of 10. 'I don't belong' and 'I have no idea I'm doing' were the most used phrases over the past year and they are still present every now and again. They become tha most prevalent when I've been trying to fix a bug or implement a feature for hours and my mentor asking me how it's going. To which he sees my very limited progress and gets a bit pissed off (sorry Aleš <3). Right after his reaction I get a sense of dread and shame. Questions start popping off if I should even continue this and so on.
+
+So how does one fix impostor syndrome? In my opinion you can really get rid of it completely, because you are always learning and will always suck at something. What you can do is tell yourself that sucking at something is completely fine and that mistakes happen all the time. **Perfect is the enemy of good** and you can never be a perfect developer, so just strive to be a good one, the one that learns from his/her mistakes, brushes the failure off and continues to develop and work.
+
+## You should do things slower ##
+
+Another one that I am still practicing myself. **You should do things 20-25% slower than usual**. Why rush and do things faster? You are more prone to mistakes and the quality of work will go down because of it.
+
+Do things slower. Read through the documentation, experiment and test something before implementing it. This will build up your patience, make you a better developer and at the end of the day you might be the person that people come to when shit hits the fan, because they know how calmly and slowly you will do things.
+
+Another thing I would like to say is in stressful situations you need to know how to **rush slowly**. This was actually a phrase that my high school math teacher told us, we would rush through math problems on tests, not really knowing what we were doing. When faced with a stressful situation, like completing a task in a short amount of time that has a high importance factor, you should rush and do things fast, but know to slow down and think the problem through when needed. This is even more important when tasks are really important to get right the first time.
+
+---
 
 Thank you for reading!
 

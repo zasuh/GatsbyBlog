@@ -1,11 +1,17 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+<p align="center">
+  <a href="https://gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby v2
+</h1>
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+<h3 align="center">
+  ⚛️ 📄 :rocket:
+</h3>
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+# Made using `gatsby-starter-blog`
+Couple of adjustments like styling and the addition of theme toggle switch.
 
-Or [view the live demo here](https://gatsby-starter-blog-demo.netlify.com/).
-
-## Running in development
-`gatsby develop`
+Feel free to clone and use for yourself! :grin:

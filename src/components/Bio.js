@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 
 // Import typefaces
 import 'typeface-montserrat'
@@ -17,7 +18,7 @@ class Bio extends React.Component {
       >
         <p>
           Written by <strong>Žane Suhadolnik</strong> who lives and works in
-          Ljubljana, Slovenia. Web dev, game dev, friends, music.{' '}
+          Ljubljana, Slovenia. <Link to="/about">More about me.</Link>{' '}
           <a href="https://twitter.com/zasuh_">
             You should follow him on Twitter
           </a>

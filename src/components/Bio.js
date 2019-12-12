@@ -18,10 +18,7 @@ class Bio extends React.Component {
       >
         <p>
           Written by <strong>Žane Suhadolnik</strong> who lives and works in
-          Ljubljana, Slovenia. <Link to="/about">More about me.</Link>{' '}
-          <a href="https://twitter.com/zasuh_">
-            You should follow him on Twitter
-          </a>
+          Ljubljana, Slovenia. <a href="https://twitter.com/zasuh_">You should follow him on Twitter</a>
         </p>
       </div>
     )

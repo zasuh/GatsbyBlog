@@ -19,10 +19,12 @@ twinPeaksTheme.overrideThemeStyles = () => ({
     boxShadow: 'none',
   },
   h2: {
-    color: 'inherit'
+    color: 'inherit',
+    fontFamily: '1820',
   },
   h3:{
-    color: 'inherit'
+    color: 'inherit',
+    fontFamily: '1820',
   }
 })
 

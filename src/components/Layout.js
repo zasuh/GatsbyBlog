@@ -32,7 +32,7 @@ class Layout extends React.Component {
             marginBottom: rhythm(1.5),
             marginTop: 0,
             textAlign: 'center',
-            color: 'var(--textNormal)'
+            color: 'var(--textNormal)',
           }}
         >
           <Link
@@ -80,7 +80,7 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: 'Montserrat, sans-serif',
+            fontFamily: '1820, sans-serif',
             marginTop: 0,
             marginBottom: rhythm(-1),
             color: 'var(--textTitle)'

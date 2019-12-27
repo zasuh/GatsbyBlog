@@ -38,6 +38,10 @@ body.dark {
   text-shadow : none;
 }
 
+h1, h2, h3, a {
+  font-family: '1820';
+}
+
 /**
  * Based on copypasta from Remy Bach and Sarah Drasner
  */
